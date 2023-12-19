@@ -26,6 +26,6 @@ public class ESTest_Client {
 
         System.out.println(esClient);
         //关闭客户端
-       // esClient.close();
+        esClient.close();
     }
 }
